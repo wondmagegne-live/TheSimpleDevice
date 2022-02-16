@@ -5,5 +5,7 @@ namespace TheSimpleDeviceBase
     public class DeviceBase
     {
         public string Name { get; set; }
+
+        public string DeviceIDmain { get; set; }
     }
 }
