@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "uZGad5vGME6QmmTsqho4W3zgN/JtqPZLo0zdS2xUbJDqTZ0x2yR2m9/FM/e7UkgZAGX/X5E8yLweQMMpb4Yg4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\git_cmd\\TheSimpleDevice\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj",
+=======
+  "dgSpecHash": "h9whdg9QwSQMnrp4I2aZqLtGSWC1JM6s6X9Rl0Zz9OoJcVMP9dfkNpECDFakIQVJvaS4aYg6oyEmOBVcHjKwEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\RiderProjects\\TheSimpleDevice\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj",
+>>>>>>> 00ab36d6f51f1264418d490a8c6a1a68bddf1c81
   "expectedPackageFiles": [],
   "logs": []
 }
