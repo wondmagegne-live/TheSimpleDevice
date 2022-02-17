@@ -9,5 +9,7 @@ namespace TheSimpleDeviceBase
         public string DeviceIDmain { get; set; }
 
         public string MoreNameProp { get; set; }
+
+        public string Rebase2Prop { get; set; }
     }
 }
