@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\TheSimpleDeviceBase\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj": {}
+    "C:\\Users\\Lenovo\\RiderProjects\\TheSimpleDevice\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\TheSimpleDeviceBase\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj": {
+    "C:\\Users\\Lenovo\\RiderProjects\\TheSimpleDevice\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\TheSimpleDeviceBase\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\TheSimpleDevice\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj",
         "projectName": "TheSimpleDeviceBase",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\TheSimpleDeviceBase\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\TheSimpleDevice\\TheSimpleDeviceBase\\TheSimpleDeviceBase.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\TheSimpleDeviceBase\\TheSimpleDeviceBase\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\TheSimpleDevice\\TheSimpleDeviceBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
